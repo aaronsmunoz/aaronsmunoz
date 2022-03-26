@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @munozprods
-- 👀 I’m interested in ... learning to code
-- 🌱 I’m currently learning ... Python
+- 👋 Hi, I’m Aaron
+- 👀 I’m interested in learning the world of coding
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
