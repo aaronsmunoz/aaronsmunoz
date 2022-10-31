@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Aaron
-- 👀 I’m interested in learning the world of coding
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in back-end development
+- 🌱 I’m currently learning mastering the Linux wizard
 
 <!---
 munozprods/munozprods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
